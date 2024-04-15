@@ -150,8 +150,8 @@
     "long": "126.8167"
 },
 "SG": {
-    "name": "Suji-gu",
-    "capital": "Suji-gu",
+    "name": "Suji-",
+    "capital": "Suji-",
     "lat": "37.3474",
     "long": "127.0265"
 },
@@ -191,7 +191,7 @@
   "lat": "35.5715",
   "long": "126.8546"
 },
-"GU": {
+"GR": {
   "name": "Guri",
   "capital": "Guri",
   "lat": "37.5985",
@@ -251,7 +251,7 @@
   "lat": "37.7519",
   "long": "128.8761"
 },
-"GON": {
+"GG": {
   "name": "Gongju",
   "capital": "Gongju",
   "lat": "36.4448",
@@ -299,7 +299,7 @@
   "lat": "37.6369",
   "long": "127.2164"
 },
-"ICH": {
+"IO": {
   "name": "Icheon",
   "capital": "Icheon",
   "lat": "37.2795",
@@ -311,7 +311,7 @@
   "lat": "35.9753",
   "long": "128.9486"
 },
-"GUM": {
+"GU": {
   "name": "Gumi",
   "capital": "Gumi",
   "lat": "36.1216",
