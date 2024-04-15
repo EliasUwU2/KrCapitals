@@ -1,65 +1,62 @@
 {
-  "SE": {
-      "name": "Seoul",
-      "capital": "Seoul",
-      "lat": "37.5665",
-      "long": "126.9780"
+  "Seoul": {
+    "name": "Seoul",
+    "capital": "Seoul",
+    "lat": "37.5665",
+    "long": "126.9780"
   },
-  "BU": {
-      "name": "Busan",
-      "capital": "Busan",
-      "lat": "35.1796",
-      "long": "129.0756"
+  "Busan": {
+    "name": "Busan",
+    "capital": "",
+    "lat": "35.1796",
+    "long": "129.0756"
   },
-  "IC": {
-      "name": "Incheon",
-      "capital": "Incheon",
-      "lat": "37.4563",
-      "long": "126.7052"
+  "Incheon": {
+    "name": "Incheon",
+    "capital": "",
+    "lat": "37.4563",
+    "long": "126.7052"
   },
-  "DG": {
-      "name": "Daegu",
-      "capital": "Daegu",
-      "lat": "35.8714",
-      "long": "128.6014"
+  "Daegu": {
+    "name": "Daegu",
+    "capital": "",
+    "lat": "35.8714",
+    "long": "128.6014"
   },
-  "DJ": {
-      "name": "Daejeon",
-      "capital": "Daejeon",
-      "lat": "36.3504",
-      "long": "127.3845"
+  "Daejeon": {
+    "name": "Daejeon",
+    "capital": "",
+    "lat": "36.3504",
+    "long": "127.3845"
   },
-  "GJ": {
-      "name": "Gwangju",
-      "capital": "Gwangju",
-      "lat": "35.1595",
-      "long": "126.8526"
+  "Gwangju": {
+    "name": "Gwangju",
+    "capital": "",
+    "lat": "35.1595",
+    "long": "126.8526"
   },
-  "UL": {
-      "name": "Ulsan",
-      "capital": "Ulsan",
-      "lat": "35.5384",
-      "long": "129.3114"
+  "Ulsan": {
+    "name": "Ulsan",
+    "capital": "",
+    "lat": "35.5384",
+    "long": "129.3114"
   },
-  "SJ": {
-      "name": "Sejong",
-      "capital": "Sejong",
-      "lat": "36.4803",
-      "long": "127.2892"
+  "Suwon": {
+    "name": "Suwon",
+    "capital": "",
+    "lat": "37.2636",
+    "long": "127.0286"
   },
-  "SU": {
-      "name": "Suwon",
-      "capital": "Suwon",
-      "lat": "37.2636",
-      "long": "127.0286"
+  "Seongnam": {
+    "name": "Seongnam",
+    "capital": "",
+    "lat": "37.4449",
+    "long": "127.1389"
   },
-  "CW": {
-      "name": "Changwon",
-      "capital": "Changwon",
-      "lat": "35.2272",
-      "long": "128.6811"
-  },
-
+  "Goyang": {
+    "name": "Goyang",
+    "capital": "",
+    "lat": "37.6564",
+    "long": "126.8350"
+  }
 }
-
-
